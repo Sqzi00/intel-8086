@@ -1,0 +1,10 @@
+C:\Users\Sqzi\source\repos\T8086\bin\Debug\T8086.exe.config
+C:\Users\Sqzi\source\repos\T8086\bin\Debug\T8086.exe
+C:\Users\Sqzi\source\repos\T8086\bin\Debug\T8086.pdb
+C:\Users\Sqzi\source\repos\T8086\obj\Debug\T8086.csprojAssemblyReference.cache
+C:\Users\Sqzi\source\repos\T8086\obj\Debug\T8086.Properties.Resources.resources
+C:\Users\Sqzi\source\repos\T8086\obj\Debug\T8086.csproj.GenerateResource.cache
+C:\Users\Sqzi\source\repos\T8086\obj\Debug\T8086.csproj.CoreCompileInputs.cache
+C:\Users\Sqzi\source\repos\T8086\obj\Debug\T8086.exe
+C:\Users\Sqzi\source\repos\T8086\obj\Debug\T8086.pdb
+C:\Users\Sqzi\source\repos\T8086\obj\Debug\T8086.Form1.resources
